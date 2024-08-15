@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.row .card .btn1
+{
+  display: none;
+}
+
+.row .card:hover .btn1
+{
+  display: block;  
+  margin: auto;
+}
+
+.d-flex .card .btn1
+{
+  display: none;
+}
+
+.d-flex .card:hover .btn1
+{
+  display: block;  
+  margin: auto;
+}
+
+.carousel-control-prev-icon,.carousel-control-next-icon{
+  color: black;
+  border-radius: 50%;
+  background-color: grey;
+  padding: 20px;
+}
+
+.carousel-control-prev-icon:hover{
+  background-color: green;
+}
+
+.carousel-control-next-icon:hover{
+  background-color: green;
+}
